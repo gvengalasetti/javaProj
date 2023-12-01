@@ -1,0 +1,6 @@
+handgun bullets
+bullets ore
+bombs ore
+turret bullets
+ore metal
+metal urmum
